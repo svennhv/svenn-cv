@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Svenn-Helge Vatne — CV</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+
+<header class="cv-header">
+  <div>
+    <h1>Svenn-Helge Vatne</h1>
+    <p class="role">Founder &amp; CEO, Factsplat (Metaito AS)</p>
+    <p class="tagline">I build AI systems in production.</p>
+    <p class="contact">
+      <a href="mailto:vatne@metaito.com">vatne@metaito.com</a> · Oslo, Norway ·
+      <a href="https://factsplat.com">factsplat.com</a> ·
+      <a href="https://www.linkedin.com/in/svenn-helge-vatne-1683a4164/">LinkedIn</a>
+    </p>
+  </div>
+  <div class="cv-header-right">
+    <img class="photo" src="photo.jpg" alt="Svenn-Helge Vatne">
+    <div class="qr-block">
+      <img class="qr" src="qr.png" alt="QR code to live CV on Factsplat">
+      <div class="qr-label">Scan for live profile</div>
+    </div>
+  </div>
+</header>
+
+<section>
+  <h2 class="section-title">Profile</h2>
+  <p>Technical founder. Seven years on Factsplat, built with a co-founder and a team of 3–5. Solo since 2024, with heavy use of AI in development. The platform has 8,500+ registered users, 100+ paying customers across three revenue channels, and a triple-database production stack (PostgreSQL, Neo4j, Solr). Shipped an AI assistant with Model Context Protocol (MCP) integration in March 2026, available to all paying users.</p>
+  <p>Equally comfortable writing Elixir, debugging Kubernetes, designing OAuth 2.1 flows, and selling. Use Claude Code daily, and operate an autonomous agent that runs continuous sales and development work.</p>
+  <p>Taking selective consulting engagements alongside Factsplat. Engagements range from rapid technical assessment ("can we build X?") and prototyping to test whether something is worth building, to finished implementation or ongoing advisory through the full process, including at the organizational level. Keep startup pace, including inside larger organizations.</p>
+</section>
+
+<section>
+  <h2 class="section-title">Experience</h2>
+
+  <h3 class="role">Founder &amp; CEO, Metaito AS / Factsplat</h3>
+  <p class="role-meta">February 2019 – present · Oslo</p>
+  <p>Built Factsplat into a real-time collaboration platform with 8,500+ registered users and 100+ paying customers across three revenue channels (Stripe, Apple App Store, organization invoicing).</p>
+  <ul>
+    <li><strong>Shipped production AI assistant (March 2026)</strong> with MCP integration, model-provider routing (Anthropic + OpenAI), GDPR-compliant consent layer, and per-tier usage budgets. Runs on web and iOS.</li>
+    <li><strong>Designed and operate Pam</strong>, an autonomous Claude Code agent running continuously on dedicated Raspberry Pi hardware. Picks up tasks from a Kanban board, builds pull requests, runs code reviews, and self-heals when something breaks. In practice: a team of developers running around the clock under my supervision. Agents never merge code themselves; I quality-check everything that's done.</li>
+    <li><strong>Triple-database architecture</strong> in production: PostgreSQL (relational), Neo4j (graph permissions), Apache Solr (search). Real-time collaboration via Phoenix Channels and websockets.</li>
+    <li><strong>Mobile apps</strong> built with Capacitor (iOS). iOS approved on the App Store March 2026.</li>
+    <li><strong>Customers include</strong> Sticos, Nortek, InnoCamp, plus paying users via Stripe and the App Store. Validated the "cockpit" model: leader builds the workspace, employee works in it.</li>
+    <li><strong>Led a team of 3–5</strong> with responsibility across product, engineering, design, sales, marketing, and growth over multiple years.</li>
+    <li><strong>Funded</strong> by private investors and through grant and loan programs from Innovation Norway and Stiftelsen Dam.</li>
+    <li><strong>Tech I work in daily:</strong> Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Neo4j, Postgres, Solr, Capacitor, Apple IAP.</li>
+    <li><strong>AI tools and APIs in daily use:</strong> Claude Code, Codex, Cursor, plus APIs from Anthropic, OpenAI, and Google.</li>
+  </ul>
+
+  <h3 class="role">System Developer, Helse Midt-Norge IT</h3>
+  <p class="role-meta">August 2018 – June 2019 · Trondheim</p>
+  <p>Built a web application for surgery planning. Project-based engagement alongside studies.</p>
+
+  <h3 class="role">Technician, Nordix Data AS</h3>
+  <p class="role-meta">May 2013 – August 2014 · Tromsø</p>
+  <p>Field technician during fiber and network rollout in Northern Norway.</p>
+
+  <h3 class="role">Earlier Ventures &amp; Freelance, During Studies</h3>
+  <p class="role-meta">~2014 – 2018 · Trondheim</p>
+  <ul>
+    <li>Founded <strong>Cretro DA</strong>, the legal vehicle through which I delivered two commercial websites for external clients.</li>
+    <li>Co-published <strong>Inflat3d</strong>, an iOS game built around Apple's 3D Touch input (~2016).</li>
+  </ul>
+
+  <h3 class="role">Leadership, NTNUI Friidrett (NTNU Student Athletics)</h3>
+  <p class="role-meta">2015 – 2021 · Trondheim</p>
+  <p>Five years in the leadership of NTNUI Friidrett, three terms as Leder (President). Awarded <em>Ridder av NTNUIs Orden</em> for sustained contribution. Also served on a privacy committee and on the election committee for NTNUI's main board. Awarded <em>Studentidrettsprisen Sør-Trøndelag</em> (2017) for leadership work.</p>
+</section>
+
+<section>
+  <h2 class="section-title">Selected Engagements &amp; Speaking</h2>
+  <ul>
+    <li><strong>Customer / Product Owner</strong> for 5–6 student team projects at NTNU, including TDT4290 <em>Customer-Driven Software Development</em> and informatics bachelor projects, across multiple years.</li>
+    <li><strong>Project lead</strong> on two Stiftelsen Dam-funded collaborations:
+      <ul>
+        <li>With <strong>Seniornett Norge</strong> (2023–2024): <em>Startside på internett for enkel tilgang til web- og helsetjenester for eldre</em>. A personalized homepage helping elderly users access digital and health services.</li>
+        <li>With <strong>Stiftelsen Livsglede for Eldre</strong> (2024–2026): <em>Ressursbank for å hjelpe eldre med teknologi og helsetjenester</em>. A resource bank supporting elderly users with technology and health services.</li>
+        <li>Delivered courses and workshops to participants as part of both engagements.</li>
+      </ul>
+    </li>
+    <li><strong>Speaker</strong>, Dataforeningen Trondheim breakfast meeting (April 2023): <em>"Smidighet med hjemmekontor, spredte team og nye digitale verktøy"</em> (Agile working with home office, distributed teams, and new digital tools). Co-presented with Robin Sporstøl Koien (Evetro / Equinor).</li>
+    <li><strong>Pitch and conference experience</strong> as Founder of Factsplat across investor, customer, and university audiences.</li>
+  </ul>
+</section>
+
+<section>
+  <h2 class="section-title">Selected Publication</h2>
+  <p>Abelsen, S. N., <strong>Vatne, S. H.</strong>, Mikalef, P., &amp; Choudrie, J. (2023). <em>Digital working during the COVID-19 pandemic: how task-technology fit improves work performance and lessens feelings of loneliness.</em> <strong>Information Technology &amp; People</strong>, 36(5), 2063–2087. DOI: <a href="https://doi.org/10.1108/ITP-12-2020-0870">10.1108/ITP-12-2020-0870</a>. <strong>113 citations.</strong></p>
+</section>
+
+<section>
+  <h2 class="section-title">Education</h2>
+  <p><strong>Norwegian University of Science and Technology (NTNU)</strong>, Computer Science, 2014–2020</p>
+  <ul>
+    <li>Master's thesis delivered and published (basis for the 2023 <em>Information Technology &amp; People</em> publication)</li>
+    <li>One course remaining (Mathematics 4), planned for completion in 2026</li>
+  </ul>
+  <p><strong>Universidad Carlos III de Madrid</strong>, Erasmus exchange, Computer Engineering, 2018</p>
+  <ul>
+    <li>Two security courses completed: applied cryptography; security architecture, governance, and ISO frameworks</li>
+  </ul>
+</section>
+
+<section>
+  <h2 class="section-title">Awards</h2>
+  <ul>
+    <li><strong>SMN Talentpris</strong> (SpareBank 1 SMN, 2022) — for work with Metaito / Factsplat</li>
+    <li><strong>Ridder av NTNUIs Orden</strong> (NTNUI, 2019)</li>
+    <li><strong>Studentidrettsprisen Sør-Trøndelag</strong> (2017)</li>
+  </ul>
+</section>
+
+<section>
+  <h2 class="section-title">Languages</h2>
+  <p>Norwegian (native) · English (fluent) · Spanish (conversational)</p>
+</section>
+
+</main>
+</body>
+</html>

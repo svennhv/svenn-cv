@@ -13,7 +13,7 @@ Technical founder. Seven years on Factsplat, built with a co-founder and a team 
 
 Equally comfortable writing Elixir, debugging Kubernetes, designing OAuth 2.1 flows, and selling. Use Claude Code daily, and operate an autonomous agent that runs continuous development work against my own codebase.
 
-Taking selective consulting engagements alongside Factsplat. Two ways I help: implement concrete solutions (MCP integration, AI agents in dev workflow, OAuth 2.1, consent layer) and hand them off, or work alongside the client through the full process, from technical implementation to how the organization adapts to AI as a whole.
+Taking selective consulting engagements alongside Factsplat. Engagements range from rapid technical assessment ("can we build X?") and prototyping to test whether something is worth building, to finished implementation or ongoing advisory through the full process, including at the organizational level. Keep startup pace, including inside larger organizations.
 
 ---
 
@@ -32,6 +32,7 @@ Built Factsplat into a real-time collaboration platform with 8,500+ registered u
 - **Led a team of 3–5** across product, engineering, design, and growth over multiple years.
 - **Funded** by Innovation Norway startup loan and private investors. No external VC.
 - **Tech I work in daily:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
+- **AI tools and APIs in daily use:** Claude Code, Codex, Cursor, plus APIs from Anthropic, OpenAI, and Google.
 
 ### System Developer, Helse Midt-Norge IT
 **August 2018 – June 2019** · Trondheim

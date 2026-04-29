@@ -9,7 +9,7 @@ vatne@metaito.com · Oslo, Norway · [factsplat.com](https://factsplat.com) · [
 
 ## Profile
 
-Solo technical founder. Seven years building Factsplat: a real-time collaboration platform with 8,500+ registered users, 100+ paying customers across three revenue channels, and a triple-database production stack (PostgreSQL, Neo4j, Solr). Shipped a full AI assistant with Model Context Protocol (MCP) integration in March 2026, available across all paid tiers — not gated to enterprise.
+Technical founder. Seven years on Factsplat, built with a co-founder and a team of 3–5. For the past 18 months I've been running lean — solo, with AI as a force multiplier, shipping faster than before. The platform has 8,500+ registered users, 100+ paying customers across three revenue channels, and a triple-database production stack (PostgreSQL, Neo4j, Solr). Shipped a full AI assistant with Model Context Protocol (MCP) integration in March 2026, available across all paid tiers — not gated to enterprise.
 
 Equally comfortable writing Elixir, debugging Kubernetes, designing OAuth 2.1 flows, and closing customers. Daily Claude Code power user; built and operate an autonomous Raspberry Pi agent that runs continuous PR work against my own codebase.
 

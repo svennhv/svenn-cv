@@ -9,7 +9,7 @@ vatne@metaito.com · Oslo · [factsplat.com](https://factsplat.com) · [LinkedIn
 
 ## Profil
 
-Teknisk solo-gründer. Sju år med Factsplat: en sanntids samhandlingsplattform med 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og et trippelt database-oppsett i produksjon (PostgreSQL, Neo4j, Solr). Lanserte en fullstendig AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig for alle betalende kunder, ikke bare enterprise.
+Teknisk gründer. Sju år med Factsplat — bygget sammen med medgrunnlegger og et team på 3–5. De siste halvannet året driver jeg solo med AI som kraftmultiplikator, og leverer raskere enn før. Plattformen har 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og et trippelt database-oppsett i produksjon (PostgreSQL, Neo4j, Solr). Lanserte en fullstendig AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig for alle betalende kunder, ikke bare enterprise.
 
 Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og lander kunder. Bruker Claude Code daglig på avansert nivå, og har bygget og drifter en autonom Raspberry Pi-agent som kjører kontinuerlig utviklingsarbeid mot min egen kodebase.
 

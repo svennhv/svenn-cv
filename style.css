@@ -109,7 +109,6 @@ header.cv-header {
 /* Sections */
 section {
   margin-bottom: 0.5cm;
-  page-break-inside: avoid;
 }
 
 h2.section-title {
@@ -171,10 +170,11 @@ em { font-style: italic; }
 }
 
 @media print {
-  html, body { background: white; }
+  html, body { background: white; orphans: 3; widows: 3; }
   main { padding: 1.4cm 1.4cm 1cm; max-width: none; }
   a { color: var(--ink); }
-  section { page-break-inside: avoid; }
-  h2.section-title { page-break-after: avoid; }
-  h3.role { page-break-after: avoid; }
+  h2.section-title { page-break-after: avoid; break-after: avoid; }
+  h3.role { page-break-after: avoid; break-after: avoid; }
+  ul, ol { page-break-inside: auto; }
+  li { page-break-inside: avoid; break-inside: avoid; }
 }

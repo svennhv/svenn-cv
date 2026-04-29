@@ -31,7 +31,7 @@ Built Factsplat into a real-time collaboration platform with 8,500+ registered u
 - **Customers include** Sticos, Nortek, InnoCamp, plus paying users via Stripe and the App Store. Validated the "cockpit" model: leader builds the workspace, employee works in it.
 - **Led a team of 3–5** with responsibility across product, engineering, design, sales, marketing, and growth over multiple years.
 - **Funded** by private investors and through grant and loan programs from Innovation Norway and Stiftelsen Dam.
-- **Tech I work in daily:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
+- **Tech I work in daily:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Neo4j, Postgres, Solr, Capacitor, Apple IAP.
 - **AI tools and APIs in daily use:** Claude Code, Codex, Cursor, plus APIs from Anthropic, OpenAI, and Google.
 
 ### System Developer, Helse Midt-Norge IT
@@ -78,11 +78,11 @@ Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital w
 ## Education
 
 **Norwegian University of Science and Technology (NTNU)**, Computer Science, 2014–2020
-- Two security courses completed: applied cryptography; security architecture, governance, and ISO frameworks
 - Master's thesis delivered and published (basis for the 2023 *Information Technology & People* publication)
 - One course remaining (Mathematics 4), planned for completion in 2026
 
 **Universidad Carlos III de Madrid**, Erasmus exchange, Computer Engineering, 2018
+- Two security courses completed: applied cryptography; security architecture, governance, and ISO frameworks
 
 ---
 

@@ -9,9 +9,9 @@ vatne@metaito.com · Oslo, Norway · [factsplat.com](https://factsplat.com) · [
 
 ## Profile
 
-Technical founder. Seven years on Factsplat, built with a co-founder and a team of 3–5. Solo since 2024, with heavy use of AI in development. The platform has 8,500+ registered users, 100+ paying customers across three revenue channels, and a triple-database production stack (PostgreSQL, Neo4j, Solr). Shipped an AI assistant with Model Context Protocol (MCP) integration in March 2026, available across all paid tiers.
+Technical founder. Seven years on Factsplat, built with a co-founder and a team of 3–5. Solo since 2024, with heavy use of AI in development. The platform has 8,500+ registered users, 100+ paying customers across three revenue channels, and a triple-database production stack (PostgreSQL, Neo4j, Solr). Shipped an AI assistant with Model Context Protocol (MCP) integration in March 2026, available to all paying users.
 
-Equally comfortable writing Elixir, debugging Kubernetes, designing OAuth 2.1 flows, and selling. Use Claude Code daily, and operate an autonomous agent that runs continuous development work against my own codebase.
+Equally comfortable writing Elixir, debugging Kubernetes, designing OAuth 2.1 flows, and selling. Use Claude Code daily, and operate an autonomous agent that runs continuous sales and development work.
 
 Taking selective consulting engagements alongside Factsplat. Engagements range from rapid technical assessment ("can we build X?") and prototyping to test whether something is worth building, to finished implementation or ongoing advisory through the full process, including at the organizational level. Keep startup pace, including inside larger organizations.
 
@@ -24,13 +24,13 @@ Taking selective consulting engagements alongside Factsplat. Engagements range f
 
 Built Factsplat into a real-time collaboration platform with 8,500+ registered users and 100+ paying customers across three revenue channels (Stripe, Apple App Store, organization invoicing).
 
-- **Shipped production AI assistant (March 2026)** with MCP integration, model-provider routing (Anthropic + OpenAI), GDPR-compliant consent layer, and per-tier usage budgets. Runs on web, iOS, and Android.
-- **Designed and operate Pam**, an autonomous Claude Code agent running continuously on dedicated Raspberry Pi hardware. Picks up tasks from a Kanban board, builds pull requests, runs code reviews, and self-heals when something breaks. In practice: a junior developer running around the clock under my supervision. Agents never merge; I review and approve.
-- **Triple-database architecture** in production: PostgreSQL (relational), Neo4j (graph permissions), Apache Solr (search). Real-time multiplayer via Phoenix Channels with presence tracking.
-- **Mobile apps** built with Capacitor (iOS and Android). iOS approved on the App Store March 2026.
+- **Shipped production AI assistant (March 2026)** with MCP integration, model-provider routing (Anthropic + OpenAI), GDPR-compliant consent layer, and per-tier usage budgets. Runs on web and iOS.
+- **Designed and operate Pam**, an autonomous Claude Code agent running continuously on dedicated Raspberry Pi hardware. Picks up tasks from a Kanban board, builds pull requests, runs code reviews, and self-heals when something breaks. In practice: a team of developers running around the clock under my supervision. Agents never merge code themselves; I quality-check everything that's done.
+- **Triple-database architecture** in production: PostgreSQL (relational), Neo4j (graph permissions), Apache Solr (search). Real-time collaboration via Phoenix Channels and websockets.
+- **Mobile apps** built with Capacitor (iOS). iOS approved on the App Store March 2026.
 - **Customers include** Sticos, Nortek, InnoCamp, plus paying users via Stripe and the App Store. Validated the "cockpit" model: leader builds the workspace, employee works in it.
-- **Led a team of 3–5** across product, engineering, design, and growth over multiple years.
-- **Funded** by Innovation Norway startup loan and private investors. No external VC.
+- **Led a team of 3–5** with responsibility across product, engineering, design, sales, marketing, and growth over multiple years.
+- **Funded** by private investors and through grant and loan programs from Innovation Norway and Stiftelsen Dam.
 - **Tech I work in daily:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
 - **AI tools and APIs in daily use:** Claude Code, Codex, Cursor, plus APIs from Anthropic, OpenAI, and Google.
 
@@ -53,7 +53,7 @@ Field technician during fiber and network rollout in Northern Norway.
 ### Leadership, NTNUI Friidrett (NTNU Student Athletics)
 **2015 – 2021** · Trondheim
 
-Five years in the leadership of NTNUI Friidrett, including three terms as Leder (President). Awarded *Ridder av NTNUIs Orden* for sustained contribution. Also served on NTNUI's main election committee.
+Five years in the leadership of NTNUI Friidrett, three terms as Leder (President). Awarded *Ridder av NTNUIs Orden* for sustained contribution. Also served on a privacy committee and on the election committee for NTNUI's main board. Awarded *Studentidrettsprisen Sør-Trøndelag* (2017) for leadership work.
 
 ---
 
@@ -88,9 +88,9 @@ Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital w
 
 ## Awards
 
-- **Ridder av NTNUIs Orden** (NTNUI Friidrett)
-- **Studentidrettsprisen Sør-Trøndelag**
-- **SMN Talentpris** (SpareBank 1 SMN)
+- **SMN Talentpris** (SpareBank 1 SMN, 2022) — for work with Metaito / Factsplat
+- **Ridder av NTNUIs Orden** (NTNUI, 2019)
+- **Studentidrettsprisen Sør-Trøndelag** (2017)
 
 ---
 

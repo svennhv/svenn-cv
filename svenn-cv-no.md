@@ -25,7 +25,7 @@ Tar utvalgte oppdrag ved siden av Factsplat. Bidragene spenner fra rask teknisk 
 Bygget Factsplat til en sanntids samarbeidsplattform med 8 500+ registrerte brukere og 100+ betalende kunder gjennom tre inntektskanaler (Stripe, Apple App Store, fakturering av organisasjoner).
 
 - **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, ruting mellom modelleverandører (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per nivå. Kjører på web og iOS.
-- **Designet og drifter Pam**, en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: et team med utviklere som jobber døgnet rundt under mitt tilsyn. Agenten lanserer aldri kode selv; jeg kvalitetssikrer det som gjøres.
+- **Designet og drifter Pam**, en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: et team med utviklere som jobber døgnet rundt under mitt tilsyn. Agenten merger aldri kode selv; jeg kvalitetssikrer det som gjøres.
 - **Trippel database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntidssamarbeid via Phoenix Channels og websockets.
 - **Mobilapper** bygget med Capacitor (iOS). iOS godkjent i App Store mars 2026.
 - **Kunder inkluderer** Sticos, Nortek, InnoCamp, og betalende privatbrukere via Stripe og App Store. Validert "cockpit"-modellen: lederen bygger arbeidsflaten, den ansatte jobber i den.
@@ -53,7 +53,7 @@ Felttekniker under utbygging av fiber- og nettverksinfrastruktur i Nord-Norge.
 ### Tillitsverv, NTNUI Friidrett (NTNU studentidrett)
 **2015 – 2021** · Trondheim
 
-Fem år som leder av NTNUI Friidrett. Tildelt *Ridder av NTNUIs Orden* for vedvarende innsats. Har også sittet i personvernutvalg og vært medlem i valgomite for hovedstyret av NTNUI. Fikk tildelt studentidrettsprisen i Sør-Trøndelag i [sett in årstall] for lederarbeid. 
+Fem år i ledelsen av NTNUI Friidrett, tre perioder som Leder. Tildelt *Ridder av NTNUIs Orden* for vedvarende innsats. Har også sittet i personvernutvalg og i valgkomite for hovedstyret av NTNUI. Tildelt *Studentidrettsprisen Sør-Trøndelag* (2017) for lederarbeid.
 
 ---
 
@@ -88,9 +88,9 @@ Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital w
 
 ## Utmerkelser
 
-- **Ridder av NTNUIs Orden** (NTNUI Friidrett)
-- **Studentidrettsprisen Sør-Trøndelag**
-- **SMNs Talentpris** (SpareBank 1 SMN)
+- **SMNs Talentpris** (SpareBank 1 SMN, 2022) — for arbeidet med Metaito / Factsplat
+- **Ridder av NTNUIs Orden** (NTNUI, 2019)
+- **Studentidrettsprisen Sør-Trøndelag** (2017)
 
 ---
 

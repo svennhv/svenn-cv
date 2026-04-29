@@ -29,6 +29,7 @@ Built Factsplat from zero to a full real-time collaboration platform with 8,500+
 - **Triple-database architecture** in production: PostgreSQL (relational), Neo4j (graph permissions), Apache Solr (search). Real-time multiplayer via Phoenix Channels with presence tracking.
 - **Native iOS and Android apps** via Capacitor. iOS approved on the App Store March 2026.
 - **Customers include** Sticos, Nortek, InnoCamp, plus 100+ paid individuals. Validated the "cockpit" model — leader builds the workspace, employee operates from it.
+- **Led a cross-functional team of 3–5** across product, engineering, design, and growth over multiple years.
 - **Funded** by Innovation Norway startup loan and angel investors. No external VC.
 - **Tech I work in daily:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
 
@@ -42,10 +43,26 @@ Built a web application for surgery planning. Project-based engagement alongside
 
 Field technician with the Nordix Data team during fiber and network rollout in Northern Norway.
 
+### Earlier Ventures & Freelance — During Studies
+**~2014 – 2019** · Trondheim
+
+- Co-founded **Cretro DA** (early venture · *[short description / sector — to fill]*).
+- Published an iOS game on the App Store with a co-founder.
+- Delivered two commercial websites for external clients.
+
 ### Leadership — NTNUI Friidrett (NTNU Student Athletics)
 **2015 – 2021** · Trondheim
 
 Five years in the leadership of NTNUI Friidrett, including three terms as Leder (President). Awarded *Ridder av NTNUIs Orden* for sustained contribution. Also served on NTNUI's main election committee.
+
+---
+
+## Selected Engagements & Speaking
+
+- **Customer / Product Owner** for 5–6 student team projects at NTNU, including TDT4290 *Customer-Driven Software Development* and informatics bachelor projects, across multiple years.
+- **Project lead** on Stiftelsen Dam-funded collaborations with Livsglede for Eldre and Seniornett. Delivered courses and workshops as part of the engagements.
+- **Workshop speaker**, Trondheim Agile (~2023) · *[topic — to fill]*.
+- **Pitch and conference experience** as Founder of Factsplat across investor, customer, and university audiences.
 
 ---
 

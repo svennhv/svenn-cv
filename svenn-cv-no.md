@@ -29,6 +29,7 @@ Bygget Factsplat fra null til en sanntids samhandlingsplattform med 8 500+ regis
 - **Trippel-database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntids samhandling via Phoenix Channels med presence-tracking.
 - **Native iOS- og Android-apper** bygget med Capacitor. iOS godkjent i App Store mars 2026.
 - **Kunder inkluderer** Sticos, Nortek, InnoCamp og 100+ betalende privatpersoner. Validert "cockpit"-modellen — lederen bygger arbeidsflaten, ansatt opererer i den.
+- **Ledet et tverrfaglig team på 3–5 personer** på tvers av produkt, utvikling, design og vekst gjennom flere år.
 - **Finansiert** av Innovasjon Norge oppstartslån og angel-investorer. Ingen ekstern VC.
 - **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
 
@@ -42,10 +43,26 @@ Bygget en webapplikasjon for operasjonsplanlegging. Prosjektbasert engasjement v
 
 Felttekniker hos Nordix Data under utbygging av fiber og nettverk i Nord-Norge.
 
+### Tidligere ventures og frilansarbeid — under studier
+**~2014 – 2019** · Trondheim
+
+- Medgrunnlegger av **Cretro DA** (tidlig prosjekt · *[kort beskrivelse / sektor — fylles inn]*).
+- Lansert et iOS-spill på App Store sammen med medgründer.
+- Levert to kommersielle nettsider for eksterne kunder.
+
 ### Tillitsverv — NTNUI Friidrett (NTNU studentidrett)
 **2015 – 2021** · Trondheim
 
 Fem år i ledelsen av NTNUI Friidrett, inkludert tre perioder som Leder. Tildelt *Ridder av NTNUIs Orden* for vedvarende innsats. Også medlem av NTNUIs hovedvalgkomité.
+
+---
+
+## Utvalgte oppdrag og foredrag
+
+- **Kunde / produkteier** for 5–6 studentprosjekter ved NTNU, blant annet TDT4290 *Kundestyrt programvareutvikling* og bachelorprosjekter i informatikk, over flere år.
+- **Prosjektleder** for Stiftelsen Dam-finansierte samarbeid med Livsglede for Eldre og Seniornett. Holdt kurs og workshops som del av leveransen.
+- **Foredragsholder**, Trondheim Agile (~2023) · *[tema — fylles inn]*.
+- **Pitch- og foredragserfaring** som gründer av Factsplat overfor investorer, kunder og akademia.
 
 ---
 

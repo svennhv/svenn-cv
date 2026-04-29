@@ -11,7 +11,7 @@ vatne@metaito.com · Oslo · [factsplat.com](https://factsplat.com) · [LinkedIn
 
 Teknisk gründer. Sju år med Factsplat, bygget sammen med medgründer og et team på 3–5. Siden 2024 har jeg drevet alene, med tung bruk av AI i utviklingen. Plattformen har 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og en trippel database-stack i produksjon (PostgreSQL, Neo4j, Solr). Lanserte AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig for alle betalende brukere.
 
-Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og selger selv. Bruker Claude Code daglig, og drifter en autonom agent som kjører kontinuerlig utviklingsarbeid mot egen kodebase.
+Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og selger selv. Bruker Claude Code daglig, og drifter en autonom agent som kjører kontinuerlig salgs- og utviklingsarbeid.
 
 Tar utvalgte oppdrag ved siden av Factsplat. Bidragene spenner fra rask teknisk vurdering ("kan vi bygge X?") og prototyping for å teste om noe er verdt å bygge, til ferdig implementering eller løpende rådgivning gjennom hele prosessen, også på organisasjonsnivå. Holder startup-tempo, også inne i større selskaper.
 
@@ -24,13 +24,13 @@ Tar utvalgte oppdrag ved siden av Factsplat. Bidragene spenner fra rask teknisk 
 
 Bygget Factsplat til en sanntids samarbeidsplattform med 8 500+ registrerte brukere og 100+ betalende kunder gjennom tre inntektskanaler (Stripe, Apple App Store, fakturering av organisasjoner).
 
-- **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, ruting mellom modelleverandører (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per nivå. Kjører på web, iOS og Android.
-- **Designet og drifter Pam**, en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: en juniorutvikler som jobber døgnet rundt under mitt tilsyn. Agenten merger aldri selv; jeg godkjenner alt.
-- **Trippel database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntidssamarbeid via Phoenix Channels med tilstedeværelse.
-- **Mobilapper** bygget med Capacitor (iOS og Android). iOS godkjent i App Store mars 2026.
+- **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, ruting mellom modelleverandører (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per nivå. Kjører på web og iOS.
+- **Designet og drifter Pam**, en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: et team med utviklere som jobber døgnet rundt under mitt tilsyn. Agenten lanserer aldri kode selv; jeg kvalitetssikrer det som gjøres.
+- **Trippel database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntidssamarbeid via Phoenix Channels og websockets.
+- **Mobilapper** bygget med Capacitor (iOS). iOS godkjent i App Store mars 2026.
 - **Kunder inkluderer** Sticos, Nortek, InnoCamp, og betalende privatbrukere via Stripe og App Store. Validert "cockpit"-modellen: lederen bygger arbeidsflaten, den ansatte jobber i den.
-- **Ledet team på 3–5** med ansvar på tvers av produkt, utvikling, design og vekst i flere år.
-- **Finansiert** av Innovasjon Norges oppstartslån og private investorer. Ingen ekstern risikokapital.
+- **Ledet team på 3–5** med ansvar på tvers av produkt, utvikling, design, salg, markedsføring og vekst i flere år.
+- **Finansiert** av private investorer og gjennom støtteordninger fra Innovasjon Norge og Stiftelsen Dam.
 - **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
 - **AI-verktøy og API-er i daglig bruk:** Claude Code, Codex, Cursor, og API-er fra Anthropic, OpenAI og Google.
 
@@ -53,7 +53,7 @@ Felttekniker under utbygging av fiber- og nettverksinfrastruktur i Nord-Norge.
 ### Tillitsverv, NTNUI Friidrett (NTNU studentidrett)
 **2015 – 2021** · Trondheim
 
-Fem år i ledelsen av NTNUI Friidrett, inkludert tre perioder som Leder. Tildelt *Ridder av NTNUIs Orden* for vedvarende innsats. Også medlem av NTNUIs hovedvalgkomité.
+Fem år som leder av NTNUI Friidrett. Tildelt *Ridder av NTNUIs Orden* for vedvarende innsats. Har også sittet i personvernutvalg og vært medlem i valgomite for hovedstyret av NTNUI. Fikk tildelt studentidrettsprisen i Sør-Trøndelag i [sett in årstall] for lederarbeid. 
 
 ---
 

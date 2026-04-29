@@ -1,0 +1,78 @@
+# Svenn-Helge Vatne
+
+**Gründer og daglig leder, Factsplat (Metaito AS)**
+*Bygger AI-systemer som faktisk leverer.*
+
+vatne@metaito.com · Oslo · [factsplat.com](https://factsplat.com) · [LinkedIn](https://www.linkedin.com/in/svenn-helge-vatne-1683a4164/)
+
+---
+
+## Profil
+
+Teknisk solo-gründer. Sju år med Factsplat: en sanntids samhandlingsplattform med 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og et trippelt database-oppsett i produksjon (PostgreSQL, Neo4j, Solr). Lanserte en fullstendig AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig for alle betalende kunder, ikke bare enterprise.
+
+Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og lander kunder. Bruker Claude Code daglig på avansert nivå, og har bygget og drifter en autonom Raspberry Pi-agent som kjører kontinuerlig utviklingsarbeid mot min egen kodebase.
+
+Tar et begrenset antall utvalgte oppdrag ved siden av Factsplat: AI-implementering, MCP-integrasjon, og hjelp til tekniske team som vil ta AI-agenter i reell bruk i sin egen utviklingsprosess.
+
+---
+
+## Erfaring
+
+### Gründer og daglig leder — Metaito AS / Factsplat
+**Februar 2019 – nå** · Oslo
+
+Bygget Factsplat fra null til en sanntids samhandlingsplattform med 8 500+ registrerte brukere og 100+ betalende kunder gjennom tre inntektskanaler (Stripe, Apple App Store, fakturering av organisasjoner).
+
+- **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, multi-provider-ruting (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per tier. Lever på web, iOS og Android.
+- **Designet og drifter Pam** — en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: en juniorutvikler som jobber døgnet rundt under min tilsyn. Agenten merger aldri selv; jeg godkjenner alt.
+- **Trippel-database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntids samhandling via Phoenix Channels med presence-tracking.
+- **Native iOS- og Android-apper** bygget med Capacitor. iOS godkjent i App Store mars 2026.
+- **Kunder inkluderer** Sticos, Nortek, InnoCamp og 100+ betalende privatpersoner. Validert "cockpit"-modellen — lederen bygger arbeidsflaten, ansatt opererer i den.
+- **Finansiert** av Innovasjon Norge oppstartslån og angel-investorer. Ingen ekstern VC.
+- **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
+
+### Systemutvikler — Helse Midt-Norge IT
+**August 2018 – juni 2019** · Trondheim
+
+Bygget en webapplikasjon for operasjonsplanlegging. Prosjektbasert engasjement ved siden av studier.
+
+### Tekniker — Nordix Data AS
+**Mai 2013 – august 2014** · Tromsø
+
+Felttekniker hos Nordix Data under utbygging av fiber og nettverk i Nord-Norge.
+
+### Tillitsverv — NTNUI Friidrett (NTNU studentidrett)
+**2015 – 2021** · Trondheim
+
+Fem år i ledelsen av NTNUI Friidrett, inkludert tre perioder som Leder. Tildelt *Ridder av NTNUIs Orden* for vedvarende innsats. Også medlem av NTNUIs hovedvalgkomité.
+
+---
+
+## Utvalgt publikasjon
+
+Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital working during the COVID-19 pandemic: how task-technology fit improves work performance and lessens feelings of loneliness.* **Information Technology & People**, 36(5), 2063–2087. DOI: [10.1108/ITP-12-2020-0870](https://doi.org/10.1108/ITP-12-2020-0870). **113 siteringer.**
+
+---
+
+## Utdanning
+
+**Norges teknisk-naturvitenskapelige universitet (NTNU)** — Datateknologi, 2014–2020
+- To sikkerhetsfag fullført: anvendt kryptografi; sikkerhetsarkitektur, styring og ISO-rammeverk
+- Masteroppgave levert (grunnlag for publikasjonen i *Information Technology & People*, 2023)
+
+**Universidad Carlos III de Madrid** — Erasmus-utveksling, datateknologi, 2018
+
+---
+
+## Utmerkelser
+
+- **Ridder av NTNUIs Orden** — for innsats i NTNUI Friidrett
+- **Studentidrettsprisen Sør-Trøndelag**
+- **SMNs Talentpris** (SpareBank 1 SMN)
+
+---
+
+## Språk
+
+Norsk (morsmål) · Engelsk (flytende) · Spansk (samtalenivå)

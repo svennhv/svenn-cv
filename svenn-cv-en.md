@@ -1,0 +1,78 @@
+# Svenn-Helge Vatne
+
+**Founder & CEO, Factsplat (Metaito AS)**
+*I build AI-integrated production systems — not strategy decks.*
+
+vatne@metaito.com · Oslo, Norway · [factsplat.com](https://factsplat.com) · [LinkedIn](https://www.linkedin.com/in/svenn-helge-vatne-1683a4164/)
+
+---
+
+## Profile
+
+Solo technical founder. Seven years building Factsplat: a real-time collaboration platform with 8,500+ registered users, 100+ paying customers across three revenue channels, and a triple-database production stack (PostgreSQL, Neo4j, Solr). Shipped a full AI assistant with Model Context Protocol (MCP) integration in March 2026, available across all paid tiers — not gated to enterprise.
+
+Equally comfortable writing Elixir, debugging Kubernetes, designing OAuth 2.1 flows, and closing customers. Daily Claude Code power user; built and operate an autonomous Raspberry Pi agent that runs continuous PR work against my own codebase.
+
+Currently taking a small number of selective consulting engagements alongside Factsplat: AI implementation, MCP integration, and helping technical teams put AI agents to real work inside their development process.
+
+---
+
+## Experience
+
+### Founder & CEO — Metaito AS / Factsplat
+**February 2019 – present** · Oslo
+
+Built Factsplat from zero to a full real-time collaboration platform with 8,500+ registered users and 100+ paying customers across three revenue channels (Stripe, Apple App Store, organization invoicing).
+
+- **Shipped production AI assistant (March 2026)** with MCP integration, multi-provider routing (Anthropic + OpenAI), GDPR-compliant consent layer, and per-tier usage budgets. Live across web, iOS, and Android.
+- **Designed and operate Pam** — an autonomous Claude Code agent running continuously on dedicated Raspberry Pi hardware. Picks up tasks from a Kanban board, builds pull requests, runs code reviews, and self-heals when something breaks. In practice: a junior developer that runs around the clock under my supervision. Agents never merge; I review and approve.
+- **Triple-database architecture** in production: PostgreSQL (relational), Neo4j (graph permissions), Apache Solr (search). Real-time multiplayer via Phoenix Channels with presence tracking.
+- **Native iOS and Android apps** via Capacitor. iOS approved on the App Store March 2026.
+- **Customers include** Sticos, Nortek, InnoCamp, plus 100+ paid individuals. Validated the "cockpit" model — leader builds the workspace, employee operates from it.
+- **Funded** by Innovation Norway startup loan and angel investors. No external VC.
+- **Tech I work in daily:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
+
+### System Developer — Helse Midt-Norge IT
+**August 2018 – June 2019** · Trondheim
+
+Built a web application for surgery planning. Project-based engagement alongside studies.
+
+### Technician — Nordix Data AS
+**May 2013 – August 2014** · Tromsø
+
+Field technician with the Nordix Data team during fiber and network rollout in Northern Norway.
+
+### Leadership — NTNUI Friidrett (NTNU Student Athletics)
+**2015 – 2021** · Trondheim
+
+Five years in the leadership of NTNUI Friidrett, including three terms as Leder (President). Awarded *Ridder av NTNUIs Orden* for sustained contribution. Also served on NTNUI's main election committee.
+
+---
+
+## Selected Publication
+
+Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital working during the COVID-19 pandemic: how task-technology fit improves work performance and lessens feelings of loneliness.* **Information Technology & People**, 36(5), 2063–2087. DOI: [10.1108/ITP-12-2020-0870](https://doi.org/10.1108/ITP-12-2020-0870). **113 citations.**
+
+---
+
+## Education
+
+**Norwegian University of Science and Technology (NTNU)** — Computer Science, 2014–2020
+- Two security courses completed: applied cryptography; security architecture, governance, and ISO frameworks
+- Master's thesis delivered (basis for the 2023 *Information Technology & People* publication)
+
+**Universidad Carlos III de Madrid** — Erasmus exchange, Computer Engineering, 2018
+
+---
+
+## Awards
+
+- **Ridder av NTNUIs Orden** — for leadership contribution to NTNUI Friidrett
+- **Studentidrettsprisen Sør-Trøndelag**
+- **SMN Talentpris** (SpareBank 1 SMN)
+
+---
+
+## Languages
+
+Norwegian (native) · English (fluent) · Spanish (conversational)

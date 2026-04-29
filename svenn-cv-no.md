@@ -1,7 +1,7 @@
 # Svenn-Helge Vatne
 
 **Gründer og daglig leder, Factsplat (Metaito AS)**
-*Bygger AI-systemer som faktisk leverer.*
+*Bygger AI-systemer i produksjon.*
 
 vatne@metaito.com · Oslo · [factsplat.com](https://factsplat.com) · [LinkedIn](https://www.linkedin.com/in/svenn-helge-vatne-1683a4164/)
 
@@ -13,7 +13,7 @@ Teknisk gründer. Sju år med Factsplat, bygget sammen med medgründer og et tea
 
 Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og selger selv. Bruker Claude Code daglig, og drifter en autonom agent som kjører kontinuerlig utviklingsarbeid mot egen kodebase.
 
-Tar utvalgte oppdrag ved siden av Factsplat: AI-implementering, MCP-integrasjon og hjelp til tekniske team som vil få AI-agenter i drift i egen utviklingsprosess.
+Tar utvalgte oppdrag ved siden av Factsplat. To måter å bidra: implementere konkrete løsninger (MCP-integrasjon, AI-agenter i utviklingsflyt, OAuth 2.1, samtykkelag) og overlevere ferdig, eller følge kunden gjennom hele prosessen, fra teknisk implementering til hvordan organisasjonen tilpasser seg AI som helhet.
 
 ---
 
@@ -28,7 +28,7 @@ Bygget Factsplat til en sanntids samarbeidsplattform med 8 500+ registrerte bruk
 - **Designet og drifter Pam**, en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: en juniorutvikler som jobber døgnet rundt under mitt tilsyn. Agenten merger aldri selv; jeg godkjenner alt.
 - **Trippel database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntidssamarbeid via Phoenix Channels med tilstedeværelse.
 - **Mobilapper** bygget med Capacitor (iOS og Android). iOS godkjent i App Store mars 2026.
-- **Kunder inkluderer** Sticos, Nortek, InnoCamp og 100+ betalende privatpersoner. Validert "cockpit"-modellen: lederen bygger arbeidsflaten, den ansatte jobber i den.
+- **Kunder inkluderer** Sticos, Nortek, InnoCamp, og betalende privatbrukere via Stripe og App Store. Validert "cockpit"-modellen: lederen bygger arbeidsflaten, den ansatte jobber i den.
 - **Ledet team på 3–5** med ansvar på tvers av produkt, utvikling, design og vekst i flere år.
 - **Finansiert** av Innovasjon Norges oppstartslån og private investorer. Ingen ekstern VC.
 - **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.

@@ -1,7 +1,7 @@
 # Svenn-Helge Vatne
 
 **Founder & CEO, Factsplat (Metaito AS)**
-*I build AI-integrated production systems. Not strategy decks.*
+*I build AI systems in production.*
 
 vatne@metaito.com · Oslo, Norway · [factsplat.com](https://factsplat.com) · [LinkedIn](https://www.linkedin.com/in/svenn-helge-vatne-1683a4164/)
 
@@ -13,7 +13,7 @@ Technical founder. Seven years on Factsplat, built with a co-founder and a team 
 
 Equally comfortable writing Elixir, debugging Kubernetes, designing OAuth 2.1 flows, and selling. Use Claude Code daily, and operate an autonomous agent that runs continuous development work against my own codebase.
 
-Taking selective consulting engagements alongside Factsplat: AI implementation, MCP integration, and helping technical teams put AI agents to real work inside their development process.
+Taking selective consulting engagements alongside Factsplat. Two ways I help: implement concrete solutions (MCP integration, AI agents in dev workflow, OAuth 2.1, consent layer) and hand them off, or work alongside the client through the full process, from technical implementation to how the organization adapts to AI as a whole.
 
 ---
 
@@ -28,7 +28,7 @@ Built Factsplat into a real-time collaboration platform with 8,500+ registered u
 - **Designed and operate Pam**, an autonomous Claude Code agent running continuously on dedicated Raspberry Pi hardware. Picks up tasks from a Kanban board, builds pull requests, runs code reviews, and self-heals when something breaks. In practice: a junior developer running around the clock under my supervision. Agents never merge; I review and approve.
 - **Triple-database architecture** in production: PostgreSQL (relational), Neo4j (graph permissions), Apache Solr (search). Real-time multiplayer via Phoenix Channels with presence tracking.
 - **Mobile apps** built with Capacitor (iOS and Android). iOS approved on the App Store March 2026.
-- **Customers include** Sticos, Nortek, InnoCamp, plus 100+ paid individuals. Validated the "cockpit" model: leader builds the workspace, employee works in it.
+- **Customers include** Sticos, Nortek, InnoCamp, plus paying users via Stripe and the App Store. Validated the "cockpit" model: leader builds the workspace, employee works in it.
 - **Led a team of 3–5** across product, engineering, design, and growth over multiple years.
 - **Funded** by Innovation Norway startup loan and private investors. No external VC.
 - **Tech I work in daily:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.

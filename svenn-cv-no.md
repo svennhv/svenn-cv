@@ -31,7 +31,7 @@ Bygget Factsplat til en sanntids samarbeidsplattform med 8 500+ registrerte bruk
 - **Kunder inkluderer** Sticos, Nortek, InnoCamp, og betalende privatbrukere via Stripe og App Store. Validert "cockpit"-modellen: lederen bygger arbeidsflaten, den ansatte jobber i den.
 - **Ledet team på 3–5** med ansvar på tvers av produkt, utvikling, design, salg, markedsføring og vekst i flere år.
 - **Finansiert** av private investorer og gjennom støtteordninger fra Innovasjon Norge og Stiftelsen Dam.
-- **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
+- **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Neo4j, Postgres, Solr, Capacitor, Apple IAP.
 - **AI-verktøy og API-er i daglig bruk:** Claude Code, Codex, Cursor, og API-er fra Anthropic, OpenAI og Google.
 
 ### Systemutvikler, Helse Midt-Norge IT

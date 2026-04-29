@@ -9,47 +9,47 @@ vatne@metaito.com · Oslo · [factsplat.com](https://factsplat.com) · [LinkedIn
 
 ## Profil
 
-Teknisk gründer. Sju år med Factsplat — bygget sammen med medgrunnlegger og et team på 3–5. De siste halvannet året driver jeg solo med AI som kraftmultiplikator, og leverer raskere enn før. Plattformen har 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og et trippelt database-oppsett i produksjon (PostgreSQL, Neo4j, Solr). Lanserte en fullstendig AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig for alle betalende kunder, ikke bare enterprise.
+Teknisk gründer. Sju år med Factsplat, bygget sammen med medgründer og et team på 3–5. Siden 2024 har jeg drevet alene, med tung bruk av AI i utviklingen. Plattformen har 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og en trippel database-stack i produksjon (PostgreSQL, Neo4j, Solr). Lanserte AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig på alle betalende planer.
 
-Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og lander kunder. Bruker Claude Code daglig på avansert nivå, og har bygget og drifter en autonom Raspberry Pi-agent som kjører kontinuerlig utviklingsarbeid mot min egen kodebase.
+Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og selger selv. Bruker Claude Code daglig, og drifter en autonom agent som kjører kontinuerlig utviklingsarbeid mot egen kodebase.
 
-Tar et begrenset antall utvalgte oppdrag ved siden av Factsplat: AI-implementering, MCP-integrasjon, og hjelp til tekniske team som vil ta AI-agenter i reell bruk i sin egen utviklingsprosess.
+Tar utvalgte oppdrag ved siden av Factsplat: AI-implementering, MCP-integrasjon og hjelp til tekniske team som vil få AI-agenter i drift i egen utviklingsprosess.
 
 ---
 
 ## Erfaring
 
-### Gründer og daglig leder — Metaito AS / Factsplat
+### Gründer og daglig leder, Metaito AS / Factsplat
 **Februar 2019 – nå** · Oslo
 
-Bygget Factsplat fra null til en sanntids samhandlingsplattform med 8 500+ registrerte brukere og 100+ betalende kunder gjennom tre inntektskanaler (Stripe, Apple App Store, fakturering av organisasjoner).
+Bygget Factsplat til en sanntids samarbeidsplattform med 8 500+ registrerte brukere og 100+ betalende kunder gjennom tre inntektskanaler (Stripe, Apple App Store, fakturering av organisasjoner).
 
-- **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, multi-provider-ruting (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per tier. Lever på web, iOS og Android.
-- **Designet og drifter Pam** — en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: en juniorutvikler som jobber døgnet rundt under min tilsyn. Agenten merger aldri selv; jeg godkjenner alt.
-- **Trippel-database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntids samhandling via Phoenix Channels med presence-tracking.
-- **Native iOS- og Android-apper** bygget med Capacitor. iOS godkjent i App Store mars 2026.
-- **Kunder inkluderer** Sticos, Nortek, InnoCamp og 100+ betalende privatpersoner. Validert "cockpit"-modellen — lederen bygger arbeidsflaten, ansatt opererer i den.
-- **Ledet et tverrfaglig team på 3–5 personer** på tvers av produkt, utvikling, design og vekst gjennom flere år.
-- **Finansiert** av Innovasjon Norge oppstartslån og angel-investorer. Ingen ekstern VC.
+- **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, ruting mellom modellleverandører (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per nivå. Kjører på web, iOS og Android.
+- **Designet og drifter Pam**, en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: en juniorutvikler som jobber døgnet rundt under mitt tilsyn. Agenten merger aldri selv; jeg godkjenner alt.
+- **Trippel database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntidssamarbeid via Phoenix Channels med tilstedeværelse.
+- **Mobilapper** bygget med Capacitor (iOS og Android). iOS godkjent i App Store mars 2026.
+- **Kunder inkluderer** Sticos, Nortek, InnoCamp og 100+ betalende privatpersoner. Validert "cockpit"-modellen: lederen bygger arbeidsflaten, den ansatte jobber i den.
+- **Ledet team på 3–5** med ansvar på tvers av produkt, utvikling, design og vekst i flere år.
+- **Finansiert** av Innovasjon Norges oppstartslån og private investorer. Ingen ekstern VC.
 - **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
 
-### Systemutvikler — Helse Midt-Norge IT
+### Systemutvikler, Helse Midt-Norge IT
 **August 2018 – juni 2019** · Trondheim
 
 Bygget en webapplikasjon for operasjonsplanlegging. Prosjektbasert engasjement ved siden av studier.
 
-### Tekniker — Nordix Data AS
+### Tekniker, Nordix Data AS
 **Mai 2013 – august 2014** · Tromsø
 
-Felttekniker hos Nordix Data under utbygging av fiber og nettverk i Nord-Norge.
+Felttekniker under utbygging av fiber- og nettverksinfrastruktur i Nord-Norge.
 
-### Tidligere ventures og frilansarbeid — under studier
+### Tidligere ventures og frilansarbeid, under studier
 **~2014 – 2018** · Trondheim
 
 - Stiftet **Cretro DA**, brukt som juridisk struktur for to kommersielle nettsideprosjekter for eksterne kunder.
 - Medlansert **Inflat3d**, et iOS-spill bygget rundt Apples 3D Touch-input (~2016).
 
-### Tillitsverv — NTNUI Friidrett (NTNU studentidrett)
+### Tillitsverv, NTNUI Friidrett (NTNU studentidrett)
 **2015 – 2021** · Trondheim
 
 Fem år i ledelsen av NTNUI Friidrett, inkludert tre perioder som Leder. Tildelt *Ridder av NTNUIs Orden* for vedvarende innsats. Også medlem av NTNUIs hovedvalgkomité.
@@ -60,8 +60,8 @@ Fem år i ledelsen av NTNUI Friidrett, inkludert tre perioder som Leder. Tildelt
 
 - **Kunde / produkteier** for 5–6 studentprosjekter ved NTNU, blant annet TDT4290 *Kundestyrt programvareutvikling* og bachelorprosjekter i informatikk, over flere år.
 - **Prosjektleder** for to Stiftelsen Dam-finansierte samarbeid:
-  - Med **Seniornett Norge** (2023–2024): *Startside på internett for enkel tilgang til web- og helsetjenester for eldre* — en personlig startside som hjelper eldre med å finne fram til digitale og helserelaterte tjenester.
-  - Med **Stiftelsen Livsglede for Eldre** (2024–2026): *Ressursbank for å hjelpe eldre med teknologi og helsetjenester* — en ressursbank for eldre brukere innen teknologi og helsetjenester.
+  - Med **Seniornett Norge** (2023–2024): *Startside på internett for enkel tilgang til web- og helsetjenester for eldre*. En personlig startside som hjelper eldre med å finne fram til digitale og helserelaterte tjenester.
+  - Med **Stiftelsen Livsglede for Eldre** (2024–2026): *Ressursbank for å hjelpe eldre med teknologi og helsetjenester*. En ressursbank for eldre brukere innen teknologi og helsetjenester.
   - Holdt kurs og workshops for deltakere som del av begge oppdragene.
 - **Foredragsholder**, Dataforeningen Trondheim, frokostmøte (april 2023): *"Smidighet med hjemmekontor, spredte team og nye digitale verktøy."* Holdt sammen med Robin Sporstøl Koien (Evetro / Equinor).
 - **Pitch- og foredragserfaring** som gründer av Factsplat overfor investorer, kunder og akademia.
@@ -76,17 +76,17 @@ Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital w
 
 ## Utdanning
 
-**Norges teknisk-naturvitenskapelige universitet (NTNU)** — Datateknologi, 2014–2020
+**Norges teknisk-naturvitenskapelige universitet (NTNU)**, Datateknologi, 2014–2020
 - To sikkerhetsfag fullført: anvendt kryptografi; sikkerhetsarkitektur, styring og ISO-rammeverk
 - Masteroppgave levert (grunnlag for publikasjonen i *Information Technology & People*, 2023)
 
-**Universidad Carlos III de Madrid** — Erasmus-utveksling, datateknologi, 2018
+**Universidad Carlos III de Madrid**, Erasmus-utveksling, datateknologi, 2018
 
 ---
 
 ## Utmerkelser
 
-- **Ridder av NTNUIs Orden** — for innsats i NTNUI Friidrett
+- **Ridder av NTNUIs Orden** (NTNUI Friidrett)
 - **Studentidrettsprisen Sør-Trøndelag**
 - **SMNs Talentpris** (SpareBank 1 SMN)
 

@@ -44,11 +44,10 @@ Bygget en webapplikasjon for operasjonsplanlegging. Prosjektbasert engasjement v
 Felttekniker hos Nordix Data under utbygging av fiber og nettverk i Nord-Norge.
 
 ### Tidligere ventures og frilansarbeid — under studier
-**~2014 – 2019** · Trondheim
+**~2014 – 2018** · Trondheim
 
-- Medgrunnlegger av **Cretro DA** (tidlig prosjekt · *[kort beskrivelse / sektor — fylles inn]*).
-- Lansert et iOS-spill på App Store sammen med medgründer.
-- Levert to kommersielle nettsider for eksterne kunder.
+- Stiftet **Cretro DA**, brukt som juridisk struktur for to kommersielle nettsideprosjekter for eksterne kunder.
+- Medlansert **Inflat3d**, et iOS-spill bygget rundt Apples 3D Touch-input (~2016).
 
 ### Tillitsverv — NTNUI Friidrett (NTNU studentidrett)
 **2015 – 2021** · Trondheim
@@ -60,8 +59,11 @@ Fem år i ledelsen av NTNUI Friidrett, inkludert tre perioder som Leder. Tildelt
 ## Utvalgte oppdrag og foredrag
 
 - **Kunde / produkteier** for 5–6 studentprosjekter ved NTNU, blant annet TDT4290 *Kundestyrt programvareutvikling* og bachelorprosjekter i informatikk, over flere år.
-- **Prosjektleder** for Stiftelsen Dam-finansierte samarbeid med Livsglede for Eldre og Seniornett. Holdt kurs og workshops som del av leveransen.
-- **Foredragsholder**, Trondheim Agile (~2023) · *[tema — fylles inn]*.
+- **Prosjektleder** for to Stiftelsen Dam-finansierte samarbeid:
+  - Med **Seniornett Norge** (2023–2024): *Startside på internett for enkel tilgang til web- og helsetjenester for eldre* — en personlig startside som hjelper eldre med å finne fram til digitale og helserelaterte tjenester.
+  - Med **Stiftelsen Livsglede for Eldre** (2024–2026): *Ressursbank for å hjelpe eldre med teknologi og helsetjenester* — en ressursbank for eldre brukere innen teknologi og helsetjenester.
+  - Holdt kurs og workshops for deltakere som del av begge oppdragene.
+- **Foredragsholder**, Dataforeningen Trondheim, frokostmøte (april 2023): *"Smidighet med hjemmekontor, spredte team og nye digitale verktøy."* Holdt sammen med Robin Sporstøl Koien (Evetro / Equinor).
 - **Pitch- og foredragserfaring** som gründer av Factsplat overfor investorer, kunder og akademia.
 
 ---

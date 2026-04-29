@@ -44,11 +44,10 @@ Built a web application for surgery planning. Project-based engagement alongside
 Field technician with the Nordix Data team during fiber and network rollout in Northern Norway.
 
 ### Earlier Ventures & Freelance — During Studies
-**~2014 – 2019** · Trondheim
+**~2014 – 2018** · Trondheim
 
-- Co-founded **Cretro DA** (early venture · *[short description / sector — to fill]*).
-- Published an iOS game on the App Store with a co-founder.
-- Delivered two commercial websites for external clients.
+- Founded **Cretro DA**, the legal vehicle through which I delivered two commercial websites for external clients.
+- Co-published **Inflat3d**, an iOS game built around Apple's 3D Touch input (~2016).
 
 ### Leadership — NTNUI Friidrett (NTNU Student Athletics)
 **2015 – 2021** · Trondheim
@@ -60,8 +59,11 @@ Five years in the leadership of NTNUI Friidrett, including three terms as Leder 
 ## Selected Engagements & Speaking
 
 - **Customer / Product Owner** for 5–6 student team projects at NTNU, including TDT4290 *Customer-Driven Software Development* and informatics bachelor projects, across multiple years.
-- **Project lead** on Stiftelsen Dam-funded collaborations with Livsglede for Eldre and Seniornett. Delivered courses and workshops as part of the engagements.
-- **Workshop speaker**, Trondheim Agile (~2023) · *[topic — to fill]*.
+- **Project lead** on two Stiftelsen Dam-funded collaborations:
+  - With **Seniornett Norge** (2023–2024): *Startside på internett for enkel tilgang til web- og helsetjenester for eldre* — a personalized internet homepage helping elderly users access digital and health services.
+  - With **Stiftelsen Livsglede for Eldre** (2024–2026): *Ressursbank for å hjelpe eldre med teknologi og helsetjenester* — a resource bank supporting elderly users with technology and health services.
+  - Delivered courses and workshops to participants as part of both engagements.
+- **Speaker**, Dataforeningen Trondheim breakfast meeting (April 2023): *"Smidighet med hjemmekontor, spredte team og nye digitale verktøy"* (Agile working with home office, distributed teams, and new digital tools). Co-presented with Robin Sporstøl Koien (Evetro / Equinor).
 - **Pitch and conference experience** as Founder of Factsplat across investor, customer, and university audiences.
 
 ---

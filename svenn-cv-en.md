@@ -78,7 +78,8 @@ Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital w
 
 **Norwegian University of Science and Technology (NTNU)**, Computer Science, 2014–2020
 - Two security courses completed: applied cryptography; security architecture, governance, and ISO frameworks
-- Master's thesis delivered (basis for the 2023 *Information Technology & People* publication)
+- Master's thesis delivered and published (basis for the 2023 *Information Technology & People* publication)
+- One course remaining (Mathematics 4), planned for completion in 2026
 
 **Universidad Carlos III de Madrid**, Erasmus exchange, Computer Engineering, 2018
 

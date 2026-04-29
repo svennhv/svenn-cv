@@ -78,7 +78,8 @@ Abelsen, S. N., **Vatne, S. H.**, Mikalef, P., & Choudrie, J. (2023). *Digital w
 
 **Norges teknisk-naturvitenskapelige universitet (NTNU)**, Datateknologi, 2014–2020
 - To sikkerhetsfag fullført: anvendt kryptografi; sikkerhetsarkitektur, styring og ISO-rammeverk
-- Masteroppgave levert (grunnlag for publikasjonen i *Information Technology & People*, 2023)
+- Masteroppgave levert og publisert (grunnlag for publikasjonen i *Information Technology & People*, 2023)
+- Ett fag gjenstår (Matematikk 4), planlagt fullført i 2026
 
 **Universidad Carlos III de Madrid**, Erasmus-utveksling, datateknologi, 2018
 

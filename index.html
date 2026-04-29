@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Svenn-Helge Vatne — CV</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body { display: flex; align-items: center; justify-content: center; min-height: 100vh; }
+  .landing { max-width: 30rem; padding: 2rem; text-align: center; }
+  .landing img.photo { width: 8rem; height: 8rem; border-radius: 50%; object-fit: cover; margin: 0 auto 1.2rem; display: block; border: 1px solid var(--rule); }
+  .landing h1 { margin: 0 0 0.3rem; font-size: 1.6rem; }
+  .landing .role { font-weight: 600; color: var(--ink); margin: 0; }
+  .landing .tagline { font-style: italic; color: var(--accent); margin: 0.4rem 0 0; }
+  .langs { margin-top: 2rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
+  .langs a {
+    display: block;
+    border: 1px solid var(--rule);
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    color: var(--ink);
+    text-decoration: none;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .langs a:hover { border-color: var(--accent); background: #fafafa; }
+  .langs a strong { display: block; font-size: 0.95rem; margin-bottom: 0.1rem; }
+  .langs a span { color: var(--muted); font-size: 0.78rem; letter-spacing: 0.04em; text-transform: uppercase; }
+  .footer { margin-top: 2rem; font-size: 0.8rem; color: var(--muted); }
+  .footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="landing">
+  <img class="photo" src="photo.jpg" alt="Svenn-Helge Vatne">
+  <h1>Svenn-Helge Vatne</h1>
+  <p class="role">Gründer og daglig leder, Factsplat (Metaito AS)</p>
+  <p class="tagline">Bygger AI-systemer i produksjon.</p>
+  <div class="langs">
+    <a href="svenn-cv-no.html"><strong>Norsk</strong><span>web</span></a>
+    <a href="svenn-cv-no.pdf"><strong>Norsk</strong><span>PDF</span></a>
+    <a href="svenn-cv-en.html"><strong>English</strong><span>web</span></a>
+    <a href="svenn-cv-en.pdf"><strong>English</strong><span>PDF</span></a>
+  </div>
+  <p class="footer">
+    <a href="mailto:vatne@metaito.com">vatne@metaito.com</a> ·
+    <a href="https://factsplat.com">factsplat.com</a> ·
+    <a href="https://www.linkedin.com/in/svenn-helge-vatne-1683a4164/">LinkedIn</a>
+  </p>
+</div>
+</body>
+</html>

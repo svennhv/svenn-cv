@@ -9,7 +9,7 @@ vatne@metaito.com · Oslo · [factsplat.com](https://factsplat.com) · [LinkedIn
 
 ## Profil
 
-Teknisk gründer. Sju år med Factsplat, bygget sammen med medgründer og et team på 3–5. Siden 2024 har jeg drevet alene, med tung bruk av AI i utviklingen. Plattformen har 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og en trippel database-stack i produksjon (PostgreSQL, Neo4j, Solr). Lanserte AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig på alle betalende planer.
+Teknisk gründer. Sju år med Factsplat, bygget sammen med medgründer og et team på 3–5. Siden 2024 har jeg drevet alene, med tung bruk av AI i utviklingen. Plattformen har 8 500+ registrerte brukere, 100+ betalende kunder fordelt på tre inntektskanaler, og en trippel database-stack i produksjon (PostgreSQL, Neo4j, Solr). Lanserte AI-assistent med MCP-integrasjon (Model Context Protocol) i mars 2026, tilgjengelig for alle betalende brukere.
 
 Skriver Elixir, debugger Kubernetes, designer OAuth 2.1-flows og selger selv. Bruker Claude Code daglig, og drifter en autonom agent som kjører kontinuerlig utviklingsarbeid mot egen kodebase.
 
@@ -24,13 +24,13 @@ Tar utvalgte oppdrag ved siden av Factsplat. Bidragene spenner fra rask teknisk 
 
 Bygget Factsplat til en sanntids samarbeidsplattform med 8 500+ registrerte brukere og 100+ betalende kunder gjennom tre inntektskanaler (Stripe, Apple App Store, fakturering av organisasjoner).
 
-- **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, ruting mellom modellleverandører (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per nivå. Kjører på web, iOS og Android.
+- **Lansert AI-assistent i produksjon (mars 2026)** med MCP-integrasjon, ruting mellom modelleverandører (Anthropic + OpenAI), GDPR-tilpasset samtykkelag og bruksbudsjetter per nivå. Kjører på web, iOS og Android.
 - **Designet og drifter Pam**, en autonom Claude Code-agent som kjører kontinuerlig på dedikert Raspberry Pi. Plukker opp oppgaver fra et Kanban-brett, bygger pull requests, kjører kodegjennomganger og er selvhelende ved feil. I praksis: en juniorutvikler som jobber døgnet rundt under mitt tilsyn. Agenten merger aldri selv; jeg godkjenner alt.
 - **Trippel database-arkitektur** i produksjon: PostgreSQL (relasjonell), Neo4j (graf og rettigheter), Apache Solr (søk). Sanntidssamarbeid via Phoenix Channels med tilstedeværelse.
 - **Mobilapper** bygget med Capacitor (iOS og Android). iOS godkjent i App Store mars 2026.
 - **Kunder inkluderer** Sticos, Nortek, InnoCamp, og betalende privatbrukere via Stripe og App Store. Validert "cockpit"-modellen: lederen bygger arbeidsflaten, den ansatte jobber i den.
 - **Ledet team på 3–5** med ansvar på tvers av produkt, utvikling, design og vekst i flere år.
-- **Finansiert** av Innovasjon Norges oppstartslån og private investorer. Ingen ekstern VC.
+- **Finansiert** av Innovasjon Norges oppstartslån og private investorer. Ingen ekstern risikokapital.
 - **Teknologi i daglig bruk:** Elixir/Phoenix, Vue 3/Nuxt 3, Kubernetes, OAuth 2.1, Stripe, Mailgun, Bolt.Sips, Solr, Capacitor, Apple IAP.
 - **AI-verktøy og API-er i daglig bruk:** Claude Code, Codex, Cursor, og API-er fra Anthropic, OpenAI og Google.
 
